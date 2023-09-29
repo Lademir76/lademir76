@@ -25,7 +25,7 @@
  
 </div>
 
-# Contato
+# Perfil DIO
 [![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/becharalademir76?tab=skills) 
 
 
