@@ -5,7 +5,7 @@
 <div>
   <p>
     Atualmente estou trabalhando no Laboratório de análises físico-químicas, controle de qualidade, sistema SAP, na empresa Belgo Arames.
-   Formado em Tecnologia  de  Análise e Desenvolvimento de Sistemas. Caso queira e for de interesse em me dar uma oportunidade, fique   vontade em entrar contato.
+   Formado em Tecnologia  de  Análise e Desenvolvimento de Sistemas. Caso queira e for de interesse em me dar uma oportunidade.
   </p>
 </div>
 
