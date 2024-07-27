@@ -1,4 +1,4 @@
-<h1>Olá, eu sou o Lademir Salomão Bechara 👋</h1>
+<h1>Olá, eu sou Lademir Salomão Bechara 👋</h1>
 <div>
   <h2>Seja bem vindo ao meu perfil</h2>
 </div>
