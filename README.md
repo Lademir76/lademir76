@@ -1,47 +1,34 @@
-# 😄 Olá, mundo! Eu sou o Lademir Salomão Bechara
+<h1>Olá, eu sou Lademir Salomão Bechara 👋</h1>
+<div>
+  <h2>Seja bem vindo ao meu perfil</h2>
+</div>
+<div>
+  <p>
+    Atualmente estou trabalhando no Laboratório de análises físico-químicas, controle de qualidade, sistema SAP, na empresa Belgo Arames.
+    Formado em Tecnologia  de  Análise e Desenvolvimento de Sistemas. Caso queira e for de interesse em me dar uma oportunidade.
+   
 
-## ✨ Seja bem-vindo ao meu cantinho no GitHub!
-
-Sou apaixonado por tecnologia, qualidade e por aprender coisas novas todos os dias. Trabalho com **análises físico-químicas**,
-qualidade** e **SAP** na **Belgo Arames**. Também sou formado em **Análise e Desenvolvimento de Sistemas**.
-
-Aqui você vai encontrar meus projetos, estudos e experiências — tudo com muito carinho e dedicação!
-
----
-
-## 🧰 Minhas ferramentas favoritas
-
-- 🧪 Controle de Qualidade
-- 🛠️ Git & GitHub
-- 📊 Excel ninja (quase 😅)
-
----
-
-## 📊 Meu universo no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lademir76&show_icons=true&theme=radical&include
-count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lademir76&layout=compact&langs_count
->
 </div>
 
----
+<div align="center">
+  <a href="https://github.com/Lademir76">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lademir76&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lademir76&layout=compact&langs_count=7&theme=dark"/>
+        
+</div>
+  
+</div>
+<br>
+<div>
+  <a href = "mailto:becharalademir76@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lademirbechara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
 
-## 📬 Vamos conversar?
 
-[![Gmail](https://img.shields.io/badge/-Email-me-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:becharalademir
-[![LinkedIn](https://img.shields.io/badge/-Me%20segue%20lá%20no%20LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoCol
-(https://www.linkedin.com/in/lademirbechara/)
+## Perfil DIO
+[![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/becharalademir76?tab=skills) 
 
----
 
-## 🚀 Explorando conhecimento na DIO
-
-[![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/becharalademi
-
----
-
-> Obrigado por visitar meu perfil! 🌟 Sinta-se à vontade para explorar e conectar!
 
 
