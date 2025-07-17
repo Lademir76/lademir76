@@ -1,43 +1,47 @@
-# 👋 Olá, eu sou Lademir Salomão Bechara
+# 😄 Olá, mundo! Eu sou o Lademir Salomão Bechara
 
-## 👨‍💻 Sobre mim
+## ✨ Seja bem-vindo ao meu cantinho no GitHub!
 
-Atualmente trabalho no **Laboratório de Análises Físico-Químicas** e **Controle de Qualidade** na empresa **Belgo Arames**, com experiência em **sistema SAP**.
+Sou apaixonado por tecnologia, qualidade e por aprender coisas novas todos os dias. Trabalho com **análises físico-químicas**,
+qualidade** e **SAP** na **Belgo Arames**. Também sou formado em **Análise e Desenvolvimento de Sistemas**.
 
-Sou formado em **Tecnologia em Análise e Desenvolvimento de Sistemas** e estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
+Aqui você vai encontrar meus projetos, estudos e experiências — tudo com muito carinho e dedicação!
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🧰 Minhas ferramentas favoritas
 
-- 💻 SAP
 - 🧪 Controle de Qualidade
-- 🖥️ Git & GitHub
-- 📊 Excel / Ferramentas de análise
+- 🛠️ Git & GitHub
+- 📊 Excel ninja (quase 😅)
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📊 Meu universo no GitHub
 
 <div align="center">
-  https://github-readme-stats.vercel.app/api?username=Lademir76&show_icons=true&theme=dark&include_all_commits=true&count_private=true
-  https://github-readme-stats.vercel.app/api/top-langs/?username=Lademir76&layout=compact&langs_count=7&theme=dark
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lademir76&show_icons=true&theme=radical&include
+count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lademir76&layout=compact&langs_count
+>
 </div>
 
 ---
 
-## 📫 Contato
+## 📬 Vamos conversar?
 
-!Gmail
-!LinkedIn
-
----
-
-## 🧠 Perfil na DIO
-
-!DIO
+[![Gmail](https://img.shields.io/badge/-Email-me-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:becharalademir
+[![LinkedIn](https://img.shields.io/badge/-Me%20segue%20lá%20no%20LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoCol
+(https://www.linkedin.com/in/lademirbechara/)
 
 ---
 
-> Obrigado por visitar meu perfil! Fique à vontade para entrar em contato ou conhecer meus projetos. 🚀
+## 🚀 Explorando conhecimento na DIO
+
+[![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/becharalademi
+
+---
+
+> Obrigado por visitar meu perfil! 🌟 Sinta-se à vontade para explorar e conectar!
+
 
